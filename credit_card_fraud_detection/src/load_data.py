@@ -11,4 +11,4 @@ if not os.path.exists(file_path):
     print("and place the 'creditcard.csv' file in the project folder.")
     sys.exit()
 
-df = pd.read_csv(file_path)
+df = pd.read_csv('creditcard.csv')
