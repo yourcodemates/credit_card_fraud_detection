@@ -1,0 +1,12 @@
+*.exe
+*.pdf
+*.jpg
+*.png
+*.jfif
+*.zip
+*.docx
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env
